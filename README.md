@@ -1,6 +1,6 @@
 # Idle Heritage Evolution
-THIS GAME WİLL BE UPLOADED TO STEAM SOON 
-
+Now On itch.io 
+https://red-x-iii.itch.io/idle-heritage-evolution
 
 
 A grid-based idle game focused on procedural heritage development and strategic resource evolution.
@@ -19,6 +19,3 @@ A downloadable build will be available here soon.
 
 ## 👤 Developer
 Focused on clean architecture, secure data handling, and professional presentation.
-
-## 📬 Contact & Portfolio
-- GitHub: [github.com/Red-X-7](https://github.com/Red-X-7)
